@@ -1,15 +1,15 @@
 ## Основи керування віртуальними ОС
 ### 2.1 Створення віртуальної машини через графічний інтерфейс
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/d2d508ba-865d-416f-b0a2-a32f8ce3c069)
+<img width="876" height="438" alt="image" src="https://github.com/user-attachments/assets/9d0102a4-f371-4cc7-879a-018bfcfe4982" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/28287420-feff-4a6d-9dfc-625557cae517)
+<img width="875" height="428" alt="image" src="https://github.com/user-attachments/assets/b3f12423-8e88-4b08-a7cd-c235fdee3a42" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/5d49fc60-e04a-4468-82f9-006a55ff5c57)
+<img width="882" height="438" alt="image" src="https://github.com/user-attachments/assets/8a0c28c2-df15-4a89-aca6-d08449757d53" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/4543090c-ec1b-4d94-b872-6dc9f6dd61d1)
+<img width="885" height="436" alt="image" src="https://github.com/user-attachments/assets/9733b78d-6d80-458d-bf72-bbd03417dd0b" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/e96a3f30-79ea-458a-9d93-1be935a1d2e9)
+<img width="713" height="326" alt="image" src="https://github.com/user-attachments/assets/f145b3f5-6dd2-42d5-bacd-fe0159f61392" />
 
 рис. 1, 2, 3, 4, 5 - фрагменти екрану з рішенням завдання 2.1.3 "Створити віртуальну машину, використовуючи графічний інтерфейс та враховуючи наступні значення параметрів:
 - назва = «Linux of Surname», де Surname – ваше прізвище транслітерацією, наприклад «Linux of Blazhko»;
@@ -20,13 +20,13 @@
 - правило Port Forwarding на першу мережеву карту, яке буде перенаправляти мережеві пакети для з’єднання через SSH-протокол із guest-ОС (IP-address=10.0.2.15, SSH-
 port=22) на IP-адресу=127.0.0.1 з використанням SSH-port=1234.
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/d25fcd2a-4f0c-4933-bb0b-b66fb6257b4d)
+<img width="832" height="279" alt="image" src="https://github.com/user-attachments/assets/577f182d-a49c-45ea-8b57-aa01eb511c1e" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/dfb1a3cf-9a53-4b92-87c8-d33f098ca2dd)
+<img width="816" height="237" alt="image" src="https://github.com/user-attachments/assets/4f8bf06e-9eaa-47ad-a435-cfa79a8ea6e3" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/063c7cea-8a91-4f4f-9dad-181f1ffd1eb7)
+<img width="315" height="228" alt="image" src="https://github.com/user-attachments/assets/ef0e0a22-3bbf-4b12-8dbc-4cedd805b50c" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/05f0a547-213e-4284-8ffe-f37a90e3d71b)
+<img width="841" height="392" alt="image" src="https://github.com/user-attachments/assets/d29e1f3f-e63d-4568-8178-ca6a92691347" />
 
 рис. 6, 7, 8, 9 - фрагменти екрану з рішенням завдання 2.1.4 "Запустити віртуальну машину, створену у пункті 2.1.3, та виконати інсталяцію віртуальної ОС, враховуючи параметри:
 - hostname = os-surname, наприклад, os-blazhko;
@@ -34,19 +34,19 @@ port=22) на IP-адресу=127.0.0.1 з використанням SSH-port=1
 - time zone = Kiev;
 - Software = OpenSSH server;"
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/01ac78ee-3fe5-4ad0-8d97-55ca76014d6b)
+<img width="661" height="488" alt="image" src="https://github.com/user-attachments/assets/4c0d0bee-2584-4def-abfc-c93a2538a2eb" />
 
 рис. 10 - фрагмент екрану з рішенням завдання 2.1.5 "Після інсталяції та перезапуску віртуальної машини виконати вхід до віртуальної ОС, використовуючи створений обліковий запис."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/8df1486b-cd3e-4a4b-bdb0-2d959029d9b7)
+<img width="812" height="650" alt="image" src="https://github.com/user-attachments/assets/4d7c6de2-2b05-4706-9d01-71323538468e" />
 
 рис. 11 - фрагмент екрану з рішенням завдання 2.1.6 "Повторити вхід до віртуальної машини через SSH-протокол."
 
 ### 2.2 Створення віртуальної машини через інтерфейс командного рядку
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/5dc2258a-667a-4610-ad39-e12b3e1a371b)
+<img width="842" height="606" alt="image" src="https://github.com/user-attachments/assets/1a04790d-517e-41c6-a6b9-a5821a2a3df6" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/7aea96d6-9c1b-4059-b948-c3103d08e7a4)
+<img width="603" height="65" alt="image" src="https://github.com/user-attachments/assets/bacc0b70-1f04-41eb-a86e-9b479bfb056d" />
 
 рис. 12, 13 - фрагменти екрану з рішенням завдання 2.2.1 "Створити віртуальну машину, використовуючи інтерфейс командного рядку та враховуючи наступні значення параметрів:
 - назва = «Linux of Surname 2», де Surname – ваше прізвище транслітерацією, наприклад «Linux of Blazhko»;
@@ -61,41 +61,41 @@ port=22) на IP-адресу=127.0.0.1 з використанням SSH-port=1
 - віртуальне сховище даних, розміщене у файлі з назвою DiskSurname.vdi, наприклад, DiskBlazhko.vdi, та розміром (Мб) = 40 * group, наприклад, 40 * 221 = 8840 Мб;
 - ISO-файл ubuntu-14.04.6-server-i386.iso з інсталяцією ОС Linux
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/8d761969-cfbf-47be-b6b0-2753f9566fb8)
+<img width="800" height="576" alt="image" src="https://github.com/user-attachments/assets/811c97f7-6e0f-4db8-a074-a2b921ee88cd" />
 
 рис. 14 - фрагмент екрану з рішенням завдання 2.2.2 "Запустити віртуальну машину, створену у пункті 2.2.1, використовуючи інтерфейс командного рядку."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/c8c73b77-35a1-4197-ae54-a1d83d2d9be6)
+<img width="582" height="66" alt="image" src="https://github.com/user-attachments/assets/92abfb85-3cdf-494c-b18e-26b628ab2377" />
 
 рис. 15 - фрагмент екрану з рішенням завдання 2.2.3 "Перебуваючи на першому екрані процесу інсталяції віртуальної ОС, призупинити роботу віртуальної машини."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/cf5ab4c9-f985-4bf0-91de-8a0752db3c25)
+<img width="715" height="557" alt="image" src="https://github.com/user-attachments/assets/ede51eb1-5d9f-4191-bc70-f82340e7ac9b" />
 
 рис. 16 - фрагмент екрану з рішенням завдання 2.2.4 "Повторно запустити призупинену віртуальну машину, створену у пункті 2.2.1."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/f298ab08-b295-44b2-9df7-d41153268d4f)
+<img width="596" height="68" alt="image" src="https://github.com/user-attachments/assets/8da20034-09c5-48fc-876a-5cf88c466a6a" />
 
 рис. 17 - фрагмент екрану з рішенням завдання 2.2.5 "Зупинити віртуальну машину, створену у пункті 2.2.1."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/54192712-85f0-4dbc-aecc-2da14a2f5c0f)
+<img width="579" height="60" alt="image" src="https://github.com/user-attachments/assets/cd048c66-b258-40c3-a373-5e3177f5258b" />
 
 рис. 18 - фрагменти екрану з рішенням завдання 2.2.7 "Зняти з реєстрації віртуальну машину та видалити всі пов’язані з нею файли."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/e64bf073-aeea-42b3-946f-6332976b3cb0)
+<img width="791" height="698" alt="image" src="https://github.com/user-attachments/assets/5405b24e-d90e-4f0c-90a5-5ded643f1c50" />
 
 рис. 19 - фрагмент екрану з рішенням завдання 2.2.7 "Зберегти всі команди створення віртуальної машини у файлі CreateVMSurname.sh, де Surname – ваше прізвище транслітерацією, наприклад «CreateVMBlazhko.sh»;"
 
 ### 2.3 Створення групи користувача та облікового запису користувача ОС Linux
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/7c30ae08-9f6d-4d24-9e9f-f3955d7e729c)
+<img width="723" height="497" alt="image" src="https://github.com/user-attachments/assets/77a29eb1-664f-4bb1-877b-c1c376c2c6da" />
 
 рис. 20 - фрагмент екрану з рішенням завдання 2.3.1 "Встановити з’єднання із віртуальною машиною, яка створена у розділі 2.1., через SSH-команду"
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/282e5e7a-5802-465b-8e63-fdc45acc7d48)
+<img width="219" height="35" alt="image" src="https://github.com/user-attachments/assets/b902dcba-c80c-4ef2-96d9-00beda378385" />
 
 рис. 21 - фрагмент екрану з рішенням завдання 2.3.2 "Створити групу користувача, назва якої співпадає з назвою вашої студентської групи транслітерацією, наприклад, AI211"
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/064e759e-eefe-4d75-abbf-5d88384d5b01)
+<img width="1011" height="89" alt="image" src="https://github.com/user-attachments/assets/ac53677e-d280-4a74-9aab-66689f00a5d2" />
 
 рис. 22 - фрагмент екрану з рішенням завдання 2.3.3 "З використанням не інтерактивної команди створити обліковий запис користувача з урахуванням того, що:
 - ім'я користувача співпадає з об’єднаними вашим прізвищем та іменем транслітерацією, наприклад, blazhko_oleksandr;
@@ -103,85 +103,85 @@ port=22) на IP-адресу=127.0.0.1 з використанням SSH-port=1
 - шлях до оболонки командного рядка = /bin/bash
 - користувач входить до раніше створеної групи"
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/0af9f327-a36e-4738-a4a9-41310c8b7b81)
+<img width="466" height="105" alt="image" src="https://github.com/user-attachments/assets/7f66b896-824c-491a-8365-e86fadd9c527" />
 
 рис. 23 - фрагмент екрану з рішенням завдання 2.3.4 "В окремому псевдотерміналі увійти з’єднатися з віртуальною машиною під іменем створеного користувача. Вийти із псевдотерміналу."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/602e636f-c293-445d-9b53-b018e7135fbe)
+<img width="526" height="28" alt="image" src="https://github.com/user-attachments/assets/fb3840dd-7fe7-4cae-ad72-944acfce792c" />
 
 рис. 24 - фрагмент екрану з рішенням завдання 2.3.5 "Видалити створений обліковий запис користувача."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/89ae11e9-2145-4987-8c86-71f46324a125)
+<img width="526" height="28" alt="image" src="https://github.com/user-attachments/assets/da1cadb0-bf60-4f18-a1c7-48f37e698fd6" />
 
 рис. 25 - фрагмент екрану з рішенням завдання 2.3.6 "Видалити створену групу."
 
 ### 2.4 Встановлення СКБД PostgrеSQL та налаштування роботи
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/2a8cda40-9191-4a31-acad-20f299560475)
+<img width="657" height="278" alt="image" src="https://github.com/user-attachments/assets/ed12bd3d-58d4-48fd-b66e-6e71b6574ef1" />
 
 рис. 26 - фрагмент екрану з рішенням завдання 2.4.1 "Використовуючи команду керування програмними пакунками, наприклад, apt, встановити програмний пакунок СКБД PostgrеSQL"
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/5a4fc5e6-a3f5-4e3b-bde8-08882cc485f6)
+<img width="418" height="41" alt="image" src="https://github.com/user-attachments/assets/6fddd8e7-aa88-4156-a6e7-49f268f93370" />
 
 рис. 27 - фрагмент екрану з рішенням завдань 2.4.2 "Від імені користувача postgres створити БД Surname, де Surname – ваше прізвище транслітерацією." і 2.4.3 "Від імені користувача postgres створити користувача СКБД з іменем Surname, де Surname – ваше прізвище транслітерацією."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/4d0f0e38-bce7-4fe5-a1d2-c9851a8cc586)
+<img width="497" height="101" alt="image" src="https://github.com/user-attachments/assets/ae1931e7-dab6-4677-8ef5-7ceafc2d628f" />
 
 рис. 28 - фрагмент екрану з рішенням завдання 2.4.4 "З’єднатися з СКБД PostgrеSQL, використовуючи створеного користувача та БД."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/73ec3f6a-ed95-4c3e-8ff9-83a87c484071)
+<img width="570" height="73" alt="image" src="https://github.com/user-attachments/assets/9cb2bd10-0b29-432c-a902-dea15f56345c" />
 
 рис. 29 - фрагмент екрану з рішенням завдання 2.4.5 "Від імені користувача postgres зупинити сервер СКБД."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/c37a82ab-c0d4-4173-98de-76082a3f4a09)
+<img width="662" height="193" alt="image" src="https://github.com/user-attachments/assets/18d4a718-f480-4ec8-94af-6f92cd09e993" />
 
 рис. 30 - фрагмент екрану з рішенням завдання 2.4.6 "Видалити програмний пакунок СКБД PostgrеSQL."
 
 ### 2.5 Встановлення останньої верcії СКБД PostgreSQL із сирцевих кодів
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/d986a404-1259-41fd-8422-542e4506d070)
+<img width="756" height="436" alt="image" src="https://github.com/user-attachments/assets/1609b31c-d07d-4196-80a5-c0bcbb4520ac" />
 
 рис. 31 - фрагмент екрану з рішенням завдання 2.5.1 "Встановити програмні пакунки, від яких залежить побудова СКБД PostgreSQL версії 15.3 із сирцевих кодів"
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/5ba6dcef-e72a-4e27-8ce7-0991e1853dff)
+<img width="662" height="193" alt="image" src="https://github.com/user-attachments/assets/a8652783-39f3-4a80-b6ba-40e86bef8901" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/6a919b71-d07a-41fb-87de-fa4a053aea93)
+<img width="756" height="436" alt="image" src="https://github.com/user-attachments/assets/7f11fa26-665b-4819-9439-28a89321e297" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/4418a1e5-4cdb-42c9-b90e-fea732c4acda)
+<img width="1280" height="182" alt="image" src="https://github.com/user-attachments/assets/a3cb8b78-6ab4-4224-a6f0-5116ac1efe99" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/59e0600f-55e3-456d-9d53-d24cc56f1a5f)
+<img width="711" height="52" alt="image" src="https://github.com/user-attachments/assets/ea32b7c6-fef8-47df-ba8b-8d66d931bdeb" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/db3bbd1e-8a17-4313-b159-77c61e4824a7)
+<img width="539" height="57" alt="image" src="https://github.com/user-attachments/assets/ab87a1e7-3182-4486-b3af-7d11fe4bbca1" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/28138a24-6149-4cf5-84c0-439bece592de)
+<img width="959" height="57" alt="image" src="https://github.com/user-attachments/assets/8f53d8f0-67b3-4b6e-9f6a-9c583b9f2871" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/bda5bee7-34d8-4ec4-ba68-b29b9c3baf9b)
+<img width="674" height="107" alt="image" src="https://github.com/user-attachments/assets/3f69d7c2-c7b3-4526-adaf-26e3393207b3" />
 
 рис. 32, 33, 34, 35, 36 - фрагменти екрану з рішенням завдання 2.5.2 "Виконати процес побудови СКБД PostgreSQL версії 15.3 із сирцевих кодів та виконати інсталяцію програм серверу."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/179d2d97-1250-4711-a0a5-f87f486f552f)
+<img width="1068" height="182" alt="image" src="https://github.com/user-attachments/assets/e35a7cff-ea28-4740-8941-b25468c3d17a" />
 
 рис. 37 - фрагмент екрану з рішенням завдання 2.5.3 "Запустити сервер СКБД PostgreSQL версії 15.3."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/728f9c00-adcb-4d65-ad3a-4c445ab237ac)
+<img width="289" height="97" alt="image" src="https://github.com/user-attachments/assets/75fcacc2-08a1-46f4-994e-29fbf793805d" />
 
 рис. 38 - фрагмент екрану з рішенням завдання 2.5.4 "Перевірити з’єднання програми-клієнта із сервером СКБД PostgreSQL, використовуючи параметри зазамовчуванням."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/7ab419ff-64ef-4e1b-b821-2a1443d251a3)
+<img width="1071" height="225" alt="image" src="https://github.com/user-attachments/assets/422c2b11-26a2-4b1f-ac3a-786c5a0ccbff" />
 
 рис. 39 - фрагмент екрану з рішенням завдання 2.5.5 "Зупинити сервер СКБД PostgreSQL."
 
 ### 2.6 Керування обмеженням використання ресурсів ОС
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/c5476796-0acc-4dcb-8e63-3e94f475399a)
+<img width="632" height="457" alt="image" src="https://github.com/user-attachments/assets/d6671f55-aca9-4506-89ef-80dcd01422a3" />
 
 рис. 40 - фрагмент екрану з рішенням завдання 2.6.1 "Встановити з’єднання із віртуальною машиною, яка створена у розділі 2.1., через SSH-команду від імені користовувача, створеного під час інсталяції віртуальної ОС."
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/2e9a651d-192c-4df0-99d7-6c8b3f9bc37c)
+<img width="914" height="285" alt="image" src="https://github.com/user-attachments/assets/69ffceef-2f98-4b45-9a25-27bc4b7ad1ea" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/97a929a7-1fa9-4c7d-b367-0464a0324c18)
+<img width="453" height="126" alt="image" src="https://github.com/user-attachments/assets/40e721ad-548f-42b7-9b60-9fd463ca2c5f" />
 
-![image](https://github.com/oleksandrblazhko/ai224-tkachenko/assets/127306365/29a41d1b-3149-4062-abdb-e57a552cda9f)
+<img width="366" height="57" alt="image" src="https://github.com/user-attachments/assets/9a789dec-2180-4cb3-9931-cdaf5ed7cfb4" />
 
 рис. 41, 42, 43 - фрагменти екрану з рішенням завдання 2.6.2 "Перевірити роботу команди ulimit за всіма прикладами з таблиці 1 з підрозділу 1.3.5, показавши на екрані:
 - приклад кожної команд;
